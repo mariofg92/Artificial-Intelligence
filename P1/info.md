@@ -2,9 +2,10 @@
 # MEMORIA PRÁCTICA 1 INTELIGENCIA ARTIFICIAL
 
 
-**[1. Análisis del problema (entorno, características del agente, etc.) ](#head1)
-[2. Descripción de la solución planteada.](head2)
-[3. Resultados obtenidos por la solución aportada en los distintos mapas.](head3)**
+### [1. Análisis del problema (entorno, características del agente, etc.) ](#head1)
+### [2. Descripción de la solución planteada.](#head2)
+### [3. Resultados obtenidos por la solución aportada en los distintos mapas.](#head3)
+
 
 
 
